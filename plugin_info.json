@@ -1,0 +1,7 @@
+{
+  "name": "Canvas Plugin",
+  "version": "1.1.0",
+  "description": "Un canvas per disegnare e spostare immagini, con integrazione diretta verso il Reference Image node.",
+  "author": "Fred Campzilla",
+  "id": "canvas_plugin"
+}
