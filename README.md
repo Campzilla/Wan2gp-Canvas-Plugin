@@ -22,5 +22,6 @@ Installing the plugin takes less than a minute!
 You will find a new **🎨 Canvas Editor** tab ready to use directly in your interface.
 
 
-<img width="1344" height="768" alt="wan2gp-edited-image" src="https://github.com/user-attachments/assets/c33e02a4-b65f-4de6-9615-93a887855cad" />
+<img width="1104" height="744" alt="s2" src="https://github.com/user-attachments/assets/a2f8d728-6419-4fe2-b9fd-4c3f6b077efb" />
+
 
