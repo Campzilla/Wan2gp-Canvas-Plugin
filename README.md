@@ -21,4 +21,5 @@ Installing the plugin takes less than a minute!
 
 You will find a new **🎨 Canvas Editor** tab ready to use directly in your interface.
 
-<img width="1104" height="744" alt="s2" src="https://github.com/user-attachments/assets/a2f8d728-6419-4fe2-b9fd-4c3f6b077efb" />
+<img width="1104" height="744" alt="s2" src="https://github.com/user-attachments/assets/b8606f01-4e5a-4462-8105-051cec41d4b2" />
+
