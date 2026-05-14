@@ -2,6 +2,7 @@
 
 A powerful and easy-to-use Canvas Editor plugin for Wan2GP. This plugin provides an interactive drawing board right inside the Wan2GP interface, allowing you to create, tweak, and send images directly to the Reference Image section with no hassle.
 
+
 ## ✨ Features
 
 - **Interactive Drawing Tool**: A fully featured canvas to sketch and draw ideas directly within the Wan2GP UI.
@@ -19,3 +20,7 @@ Installing the plugin takes less than a minute!
 4. Restart Wan2GP and you're good to go!
 
 You will find a new **🎨 Canvas Editor** tab ready to use directly in your interface.
+
+
+<img width="1344" height="768" alt="wan2gp-edited-image" src="https://github.com/user-attachments/assets/c33e02a4-b65f-4de6-9615-93a887855cad" />
+
